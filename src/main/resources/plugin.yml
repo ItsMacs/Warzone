@@ -1,0 +1,7 @@
+name: Warzone
+version: '${project.version}'
+main: eu.maxpi.fiverr.warzone.Warzone
+api-version: 1.18
+authors: [ Macslolz ]
+description: Plugin to manage BlastCraft Warzone
+website: fiverr.com/macslolz
